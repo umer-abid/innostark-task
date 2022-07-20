@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+.app-container{
+  display: flex;
+  background-color: black;
+  justify-content: center;
+}
+.container-logo {
+  height: 3rem;
+  width: 10rem;
+  margin: 0.1rem 1rem 0 0;
+
+}
+.container-heading{
+  color: white;
+  margin-top: 0.5rem;
+}

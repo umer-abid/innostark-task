@@ -1,0 +1,9 @@
+.products-container{
+  margin: 1rem 2rem 1rem 2rem;
+}
+.products-container-add-button{
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  width: 100%;
+}
